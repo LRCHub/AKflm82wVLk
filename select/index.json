@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "海辺の葬列",
+  "base_artist": "Ichiko Aoba",
+  "createdAt": "2026-02-10T10:36:54.519635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海辺の葬列",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/01_海辺の葬列_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海辺の葬列",
+      "artist": "Aoba, Ichiko",
+      "has_synced": true,
+      "path": "select/02_海辺の葬列_Aoba,_Ichiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海辺の葬列",
+      "artist": "青葉市子 [Ichiko Aoba]",
+      "has_synced": true,
+      "path": "select/03_海辺の葬列_青葉市子_[Ichiko_Aoba].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海辺の葬列",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/04_海辺の葬列_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海辺の葬列",
+      "artist": "青葉市子",
+      "has_synced": false,
+      "path": "select/pl_01_海辺の葬列_青葉市子.txt"
+    }
+  ]
+}
